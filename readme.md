@@ -35,7 +35,7 @@ I am a passionate Salesforce Developer from India with a knack for solving compl
 ## 🚀 Projects
 Here are a few notable projects that showcase my skills and expertise:
 
-### [Restaurnat](https://github.com/PatelKaran0104/restaurant)
+### [Restaurant](https://github.com/PatelKaran0104/restaurant)
 - **Description**: The project is a website for a restaurant that showcases its menu, customer reviews, and other key information to enhance the dining experience.
 - **Technologies Used**: HTML, CSS, JavaScript.
 - **Key Features**: Detailed menu with diverse cuisine options.
